@@ -1,0 +1,72 @@
+{
+  "theme_name": "SEEG-P Executive Consulting",
+  "source_basis": "Visual system extracted from the three supplied Slide Science reference screenshots",
+  "intent": [
+    "senior-executive",
+    "consulting-grade",
+    "structured",
+    "credible",
+    "deliberate"
+  ],
+  "colors": {
+    "deep_navy": "#052249",
+    "action_red": "#C91D1D",
+    "near_white": "#F7F7F5",
+    "white": "#FFFFFF",
+    "black": "#090909",
+    "supporting_gray": "#5D626A",
+    "border_gray": "#D7DADF",
+    "pale_gray": "#ECEDEC",
+    "blue_gray": "#73849A"
+  },
+  "typography": {
+    "office_safe_family": "Arial",
+    "visual_classification": "modern grotesk sans-serif",
+    "deck_title_px": 54,
+    "slide_title_px": 36,
+    "section_label_px": 12,
+    "body_px": 16,
+    "caption_px": 11,
+    "headline_weight": 700,
+    "body_weight": 400,
+    "case_rules": {
+      "headlines": "sentence case",
+      "section_labels": "uppercase",
+      "body": "sentence case"
+    }
+  },
+  "canvas": {
+    "width_px": 1280,
+    "height_px": 720,
+    "aspect_ratio": "16:9",
+    "outer_margin_px": 56,
+    "base_grid_px": 8
+  },
+  "geometry": {
+    "corner_style": "square",
+    "shadows": "none",
+    "gradients": "none",
+    "border_width_px": 1,
+    "primary_rule_px": 4
+  },
+  "composition_rules": [
+    "Use near-white canvases for analytical slides and deep navy for section or synthesis slides.",
+    "Keep red below approximately five percent of the slide area.",
+    "Use red only for the active decision, delivery gate, deadline, or single focal element.",
+    "Build hierarchy with alignment, spacing, typography, and horizontal bands rather than decoration.",
+    "Prefer three- or four-column systems for comparable items.",
+    "Use large bold numbers with short labels for portfolio summaries.",
+    "Keep supporting copy concise and left aligned.",
+    "Avoid rounded cards, gradients, neon effects, glass effects, and decorative illustrations."
+  ],
+  "recommended_layouts": [
+    "white executive cover with navy focus panel",
+    "two-column agenda grid",
+    "three-column organization structure",
+    "horizontal process flow",
+    "navy background with four white roadmap cards",
+    "KPI row with segmented status bar",
+    "three-column comparison with navy action panel",
+    "navy synthesis slide with three white decision cards"
+  ]
+}
